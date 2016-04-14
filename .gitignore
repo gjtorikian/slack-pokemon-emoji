@@ -1,0 +1,5 @@
+.DS_Store
+images/
+*.png
+monsterSummaries.json
+sprites.css
